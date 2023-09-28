@@ -17,7 +17,7 @@ Starting code provided by MONU Bootcamp course.
 
 ## Contact
 
-Project Link: [rubabakhandaker.github.io/]()
+Project Link: [rubabakhandaker.github.io/Workday-Scheduler](https://rubabakhandaker.github.io/Workday-Scheduler/)
 
 ## License
 
